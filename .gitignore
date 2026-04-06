@@ -25,4 +25,3 @@ obj/
 hs_err_pid*
 .mvn/timing.properties
 karate-api/target/
-k6-performance/.cache/
